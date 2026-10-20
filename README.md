@@ -25,6 +25,6 @@ See the screenshots uploaded in this repository.
 Jayashree, Dhanalakshmi College of Engineering (VAC Course)
 
 
-Submission details form irundha, GitHub link-ah fill pannunga: https://github.com/j47151625-byte/DCE-Campus-Helpdesk-chatbot
+
 
 Screenshot serkkanum na anuppunga.
